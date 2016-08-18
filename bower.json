@@ -1,0 +1,17 @@
+{
+    "name": "averiaseriflibre-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Dan Sayers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/averiaseriflibre-bower.git"
+    },
+    "description": "Averia Serif Libre font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
